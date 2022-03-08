@@ -1,3 +1,9 @@
+/*
+ Constraints:
+
+1 <= bad <= n <= 231 - 1
+*/
+
 public class Solution extends VersionControl {
     public int firstBadVersion(int n) {
         int i = -1;
