@@ -20,3 +20,6 @@ FirstBadVersion -> You are a product manager and currently leading a team to dev
  
  Squares of a Sorted Array -> Given an integer array nums sorted in non-decreasing order,
                               return an array of the squares of each number sorted in non-decreasing order.
+
+
+ --------------------------DAY- 03-------------------------
