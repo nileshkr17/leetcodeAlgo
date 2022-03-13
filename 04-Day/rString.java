@@ -8,7 +8,12 @@ class Solution{
             temp=s[i];
             s[i]=s[len-i-1];
             s[len-i-1]=temp;
-            
+
         }
+        for (int i = 0; i < s.length; i++) {
+            System.out.println(s[i]);   
+        }
+       
     }
+
 }
