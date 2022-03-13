@@ -26,7 +26,8 @@ FirstBadVersion -> You are a product manager and currently leading a team to dev
  --------------------------DAY- 03-------------------------
 
  MoveZero ->
-                       Given an integer array nums, move all 0's to the end of it while maintaining the relative order of the non-zero elements.                                      Input: nums = [0,1,0,3,12]
+                       Given an integer array nums, move all 0's to the end of it while maintaining the relative order of the non-zero elements.
+                       Input: nums = [0,1,0,3,12]
                        Output: [1,3,12,0,0]
 
 
@@ -39,3 +40,10 @@ Sum Of Two Numbers:           Input: numbers = [2,7,11,15],
 
 
  --------------------------DAY- 04-------------------------
+
+
+
+ Reverse String :            Write a function that reverses a string.
+                              The input string is given as an array of characters s.
+                              You must do this by modifying the input array
+                               in-place with O(1) extra memory.
