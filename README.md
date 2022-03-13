@@ -1,5 +1,6 @@
 # leetcodeAlgo
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/nileshkr17/leetcodeAlgo/blob/main/src/LeetCode_Sharing.png)
+<br>
  --------------------------DAY- 01-------------------------
                                                           
                                            
