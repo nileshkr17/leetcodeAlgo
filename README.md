@@ -23,3 +23,18 @@ FirstBadVersion -> You are a product manager and currently leading a team to dev
 
 
  --------------------------DAY- 03-------------------------
+
+ MoveZero ->
+                       Given an integer array nums, move all 0's to the end of it while maintaining the relative order of the non-zero elements.                                      Input: nums = [0,1,0,3,12]
+                       Output: [1,3,12,0,0]
+
+
+Sum Of Two Numbers:           Input: numbers = [2,7,11,15], 
+                              target = 9
+                              Output: [1,2]
+                              Explanation: The sum of 2 and 7 is 9.   
+                              Therefore, index1 = 1, index2 = 2.
+                              We return [1, 2].
+
+
+ --------------------------DAY- 04-------------------------
