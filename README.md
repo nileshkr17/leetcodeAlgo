@@ -1,5 +1,5 @@
 # leetcodeAlgo
-
+![alt text](http://url/to/img.png)
  --------------------------DAY- 01-------------------------
                                                           
                                            
