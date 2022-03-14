@@ -47,3 +47,6 @@ Sum Of Two Numbers:           Input: numbers = [2,7,11,15],
                               The input string is given as an array of characters s.
                               You must do this by modifying the input array
                                in-place with O(1) extra memory.
+
+ Reverse Words in a S                          Input: s = "Let's take LeetCode contest"
+                                               Output: "s'teL ekat edoCteeL tsetnoc"
