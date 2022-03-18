@@ -50,3 +50,12 @@ Sum Of Two Numbers:           Input: numbers = [2,7,11,15],
 
  Reverse Words in a S                          Input: s = "Let's take LeetCode contest"
                                                Output: "s'teL ekat edoCteeL tsetnoc"
+
+
+--------------------------DAY- 05-------------------------
+
+
+Remove Duplicate Letters : Given a string s, remove duplicate letters so that every letter appears once and only once.      
+                           You must make sure your result is the smallest in lexicographical order among all possible results.
+
+                           
