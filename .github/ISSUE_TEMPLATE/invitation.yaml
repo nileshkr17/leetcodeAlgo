@@ -1,0 +1,30 @@
+name: Invitation to the Opentek GitHub Community
+description: I would like to be part of the awesome community
+title: "Please invite me to the Community"
+labels: [invite me to the organisation]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Name
+      placeholder: Insert your name here
+    validations:
+      required: true
+  - type: input
+    id: discordname
+    attributes:
+      label: Discord Username (if applicable)
+      placeholder: Insert your Discord username here
+    validations:
+      required: false
+  - type: textarea
+    id: Additional
+    attributes:
+      label: Additional Context
+      description: Why do you want to join? and What are your expectations?
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: |
+         Join Us!

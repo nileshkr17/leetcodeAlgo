@@ -1,6 +1,17 @@
 # leetcodeAlgo
 ![alt text](https://github.com/nileshkr17/leetcodeAlgo/blob/main/src/LeetCode_Sharing.png)
 <br>
+<br>
+Contributing
+Please see CONTRIBUTING.md for getting started with the contribution. Make sure that you follow CODE_OF_CONDUCT.md while contributing and engaging in the discussions. When contributing, please first discuss the change you wish to make via an issue on this repository before making the actual change.
+
+Raise an [issue to join the GitHub organisation](https://github.com/Opentek-Org/support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization)
+https://github.com/nileshkr17/leetcodeAlgo/issues/new?assignees=&labels=issue+to+join+the+GitHub+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization
+
+
+
+<br>
+<br>
  --------------------------DAY- 01-------------------------
                                                           
                                            
