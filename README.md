@@ -77,4 +77,6 @@ Roman to Integer : Symbol       Value
                                         Explanation: L = 50, V= 5, III = 3.
 
 
-Middle of the Linked List:   
+Middle of the Linked List:   Input: head = [1,2,3,4,5,6]
+                             Output: [4,5,6]
+                              Explanation: Since the list has two middle nodes with values 3 and 4, we return the second one.
