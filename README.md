@@ -59,3 +59,19 @@ Remove Duplicate Letters : Given a string s, remove duplicate letters so that ev
                            You must make sure your result is the smallest in lexicographical order among all possible results.
 
                            Note: This question is the same as 1081: https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/
+
+
+--------------------------DAY- 06-------------------------      
+
+
+Roman to Integer : Symbol       Value
+                    I             1
+                    V             5
+                    X             10
+                    L             50
+                    C             100
+                    D             500
+                    M             1000
+                    Input: s = "LVIII"
+Output: 58
+Explanation: L = 50, V= 5, III = 3.
