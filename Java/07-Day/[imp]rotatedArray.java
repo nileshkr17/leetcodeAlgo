@@ -12,7 +12,6 @@ class Solution {
             if(nums[mid]>=nums[start])
             {  
                 
-         
                 if(target<nums[mid] && target>=nums[start])
                 {  
                     end = mid-1;                               
